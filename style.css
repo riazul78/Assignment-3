@@ -1,16 +1,3 @@
 .banner{
          filter: brightness(50%);
 }
-.text{ 
-       margin-top: 150px;
-       margin-left: 270px;
-       margin-right: 240px;
-       text-align: center;
-}
-.banner-title{
-    font-family: 'Poppins', sans-serif;
-    font-size: 50px;
-}
-.image-2{
-            width: 80px;
-}
